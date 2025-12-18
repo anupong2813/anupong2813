@@ -4,7 +4,6 @@
 - 📚 I'm currently studying at Kasetsart University, Sriracha Campus.
 - 🖥 Faculty of Science, majoring in Digital Science and Technology.
 - 🔵 I'm learning to code in various languages.
-- 
 - 💬 How to reach me (anupong.do@ku.th)
 
 </p>
